@@ -1,0 +1,55 @@
+/*დაიწყო HEADER*/
+header{
+    width: 1440px;
+    margin: 0 auto;
+    padding: 38px 130px;
+}
+.logo_link .logo_img{
+    vertical-align: middle;
+    margin-right: 15px;
+    
+}
+.bertumbuh{
+    margin-right: 280.02px ;
+vertical-align: middle;
+display: inline-block;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 140%;
+color: #34364A;
+}
+nav{
+    display: inline-block;
+    vertical-align: middle;
+}
+li{
+display: inline-block;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+color: #6D6D6D;
+}
+.home{
+margin-right: 51px;
+}
+.post{
+margin-right: 51px;
+}
+.newsletter{
+margin-right: 200px;
+}
+.header_btn{
+background: #2A9D8F;
+color: #FFFFFF;
+padding: 8px 19px;
+border: none;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+}
+/*დამთავრდა HEADER*/
