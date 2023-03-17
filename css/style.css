@@ -103,3 +103,50 @@ background: #2A9D8F;
 border-style: none;
 }
 /*დამთავრდა SECTION1*/
+
+/*დაიწყო ARTICLE*/
+article{
+    width: 1440px;
+    margin: 0 auto;
+    padding: 200px 330px;
+    
+}
+.TentangKami{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 130%;
+text-align: center;   
+color: #4D4D4D;
+margin-bottom: 62px ;
+}
+.logo2{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 32.17px;
+}
+.text1{
+vertical-align: top;
+display: inline-block;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+color: #656565;
+width: 641px;
+height: 120px;
+margin-bottom: 20px;
+}
+.text2{
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 170%;
+width: 780px;
+height: 170px;
+color: #656565;
+}
+/*დამთავრდა ARTICLE*/
