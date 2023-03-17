@@ -3,6 +3,7 @@ header{
     width: 1440px;
     margin: 0 auto;
     padding: 38px 130px;
+    
 }
 .logo_link .logo_img{
     vertical-align: middle;
@@ -53,3 +54,52 @@ font-size: 20px;
 line-height: 150%;
 }
 /*დამთავრდა HEADER*/
+
+/*დაიწყო SECTION1*/
+.section1{
+    width: 1440px;
+    margin: 0 auto;
+    background: #C2F3EE;
+    padding: 80px 130px;
+}
+.photo_section1{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 80px;
+}
+.div_section1{
+    display: inline-block;
+}
+.title_section1{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 48px;
+color: #272727;
+vertical-align: top;
+margin-bottom: 27px;
+}
+.div_p_section1{
+width: 480px;
+height: 324px;
+font-family: 'Poppins';
+font-style: italic;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+color: #515151;
+margin-bottom: 73px;
+}
+.btn_section1{
+padding: 8px 27px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #FFFFFF;
+background: #2A9D8F;
+border-style: none;
+}
+/*დამთავრდა SECTION1*/
