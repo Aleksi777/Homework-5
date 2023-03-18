@@ -150,3 +150,73 @@ height: 170px;
 color: #656565;
 }
 /*დამთავრდა ARTICLE*/
+
+/*დაიწყო SECTION2*/
+
+.section2{
+    width: 1440px;
+    margin: 0 auto;
+    padding: 200px 130px;
+}
+.divsona1{
+    display: inline-block;
+    margin-right: 10px;
+}
+.divsona2{
+    display: inline-block;
+}
+.btn1{
+padding: 8px 24px;
+display: block;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+color: rgba(255, 255, 255, 0.85);
+background: #2A9D8F;
+border-style: none;
+margin-top: 20px;
+}
+.btn2{
+padding: 8px 24px;
+display: block;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+color: rgba(255, 255, 255, 0.85);
+background: #2A9D8F;
+border-style: none;
+margin-top: 20px;
+}
+.berita_title{
+margin-left: 420px;
+ margin-bottom: 54px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 130%;
+color: #4D4D4D;
+}
+.Selamatkan{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+color: #535353;
+margin-top: 15px;
+}
+.Kegiatan{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+color: #535353;
+margin-top: 15px;
+}
+/*დამთავრდა SECTION2*/
