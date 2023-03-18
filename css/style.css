@@ -25,21 +25,34 @@ nav{
     display: inline-block;
     vertical-align: middle;
 }
-li{
+
+
+
+.home{
 display: inline-block;
 font-family: 'Nerko One';
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
 color: #6D6D6D;
-}
-.home{
 margin-right: 51px;
 }
 .post{
+display: inline-block;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+color: #6D6D6D;
 margin-right: 51px;
 }
 .newsletter{
+    display: inline-block;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+color: #6D6D6D;
 margin-right: 200px;
 }
 .header_btn{
@@ -220,3 +233,66 @@ color: #535353;
 margin-top: 15px;
 }
 /*დამთავრდა SECTION2*/
+
+/*დაიწყო FOOTER*/
+footer{
+    width: 1440px;
+    height: 386px;
+    margin: 0 auto;
+    padding: 64px 130px;
+    background: #2A9D8F;
+}
+li{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%; 
+    color: #FFFFFF;
+}
+.logo3{
+    vertical-align: top;
+    margin-right: 658px;
+}
+.footer_div1{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+}
+.footer_div2{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+}
+.footer_div3{
+    display: inline-block;
+    vertical-align: top;
+}
+.pirveli{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    color: #FFFFFF;
+    margin-bottom: 21px;
+}
+.meore{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    color: #FFFFFF;
+    margin-bottom: 21px;
+}
+.mesame{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    color: #FFFFFF;
+    margin-bottom: 21px;
+}
+/*დამთავრდა FOOTER*/
